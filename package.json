@@ -1,0 +1,20 @@
+{
+  "name": "cedro-tokens",
+  "version": "1.0.0",
+  "description": "Pacotes com todos os tokens.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogeriosfa/cedro-tokens.git"
+  },
+  "keywords": ["cedro", "tokens"],
+  "author": "rogeriosfa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogeriosfa/cedro-tokens/issues"
+  },
+  "homepage": "https://github.com/rogeriosfa/cedro-tokens#readme"
+}
