@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 10 Jun 2022 17:48:24 GMT
+  Generated on Tue, 14 Jun 2022 19:37:48 GMT
 -->
 <resources>
   <color name="color_base_gray_light">#ffcccccc</color>
@@ -13,5 +13,6 @@
   <color name="color_font_base">#ffff0000</color>
   <color name="color_font_secondary">#ff00ff00</color>
   <color name="color_font_tertiary">#ffcccccc</color>
+  <color name="color_primary_900">#ff000a18</color>
   
 </resources>

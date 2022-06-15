@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Fri, 10 Jun 2022 17:48:24 GMT
+// Generated on Tue, 14 Jun 2022 19:37:48 GMT
 
 
 
@@ -20,4 +20,5 @@ object StyleDictionaryColor {
   val colorFontBase = Color(0xffff0000)
   val colorFontSecondary = Color(0xff00ff00)
   val colorFontTertiary = Color(0xffcccccc)
+  val colorPrimary900 = Color(0xff000a18)
 }
