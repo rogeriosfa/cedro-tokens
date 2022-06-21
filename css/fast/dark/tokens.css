@@ -1,16 +1,54 @@
 /**
  * Do not edit directly
- * Generated on Mon, 20 Jun 2022 12:21:13 GMT
+ * Generated on Tue, 21 Jun 2022 19:58:00 GMT
  */
 
 :root {
+  --color-gradient: #000000;
+  --color-primary-100: #ccebff;
+  --color-primary-200: #99d5ff;
+  --color-primary-300: #66beff;
+  --color-primary-400: #33a5ff;
+  --color-primary-500: #078beb;
+  --color-primary-600: #0072cc;
+  --color-primary-700: #005899;
+  --color-primary-800: #003c66;
+  --color-primary-900: #001f33;
+  --color-secondary-100: #ecffcc;
+  --color-secondary-200: #d7fe9f;
+  --color-secondary-300: #c1f578;
+  --color-secondary-400: #abe556;
+  --color-secondary-500: #93d03b;
+  --color-secondary-600: #78b223;
+  --color-secondary-700: #5b8f12;
+  --color-secondary-800: #3e6506;
+  --color-secondary-900: #203300;
+  --color-black-100: #d2d4d7;
+  --color-black-200: #a6a9af;
+  --color-black-300: #7b7f86;
+  --color-black-400: #50545d;
+  --color-black-500: #21262e;
+  --color-black-600: #1d212a;
+  --color-black-700: #151920;
+  --color-black-800: #111419;
+  --color-black-900: #090808;
+  --color-white-100: #ffffff;
+  --color-white-200: #fefefe;
+  --color-white-300: #fdfdfd;
+  --color-white-400: #fbfbfb;
+  --color-white-500: #f6f6f6;
+  --color-white-600: #f0f0f0;
+  --color-white-700: #eaeaea;
+  --color-white-800: #e4e4e4;
+  --color-white-900: #dddddd;
   --button-border-radius: 4px;
   --button-text-size: 1rem;
   --button-height: 40px;
-  --color-font-primary: #ffffff;
-  --color-font-secondary: #ffffff;
-  --font-family-headers: Montserrat;
-  --font-family-base: Tahoma, Arial, 'Helvetica Neue', sans;
+  --font-family-01: Poppins;
+  --font-family-02: Roboto;
+  --font-size-xmedium: 20px;
+  --font-size-small: 16px;
+  --font-size-xsmall: 14px;
   --font-platform-system: Tahoma, Arial, 'Helvetica Neue', sans;
   --size-font-small: 0.75rem; /* the small size of the font */
   --size-font-medium: 1rem; /* the medium size of the font */

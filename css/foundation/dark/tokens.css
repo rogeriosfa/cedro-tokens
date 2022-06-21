@@ -1,27 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Tue, 21 Jun 2022 19:58:01 GMT
+ * Generated on Tue, 21 Jun 2022 19:58:00 GMT
  */
 
 :root {
-  --color-primary-100: #ffd6cc;
-  --color-primary-200: #ffb299;
-  --color-primary-300: #ff9271;
-  --color-primary-400: #ff7651;
-  --color-primary-500: #f15f38;
-  --color-primary-600: #cc431e;
-  --color-primary-700: #992c0b;
-  --color-primary-800: #661900;
-  --color-primary-900: #330a00;
-  --color-secondary-100: #d4cfed;
-  --color-secondary-200: #aca3d7;
-  --color-secondary-300: #857abe;
-  --color-secondary-400: #6154a2;
-  --color-secondary-500: #3f3182;
-  --color-secondary-600: #2e216f;
-  --color-secondary-700: #1f1458;
-  --color-secondary-800: #130a3e;
-  --color-secondary-900: #080321;
+  --button-border-radius: 4px;
+  --button-text-size: 1rem;
+  --button-height: 40px;
   --color-black-100: #d2d4d7;
   --color-black-200: #a6a9af;
   --color-black-300: #7b7f86;
@@ -40,9 +25,6 @@
   --color-white-700: #eaeaea;
   --color-white-800: #e4e4e4;
   --color-white-900: #dddddd;
-  --button-border-radius: 4px;
-  --button-text-size: 1rem;
-  --button-height: 40px;
   --font-family-01: Poppins;
   --font-family-02: Roboto;
   --font-size-xmedium: 20px;

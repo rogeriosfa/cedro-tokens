@@ -2,10 +2,45 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 20 Jun 2022 12:21:13 GMT
+  Generated on Tue, 21 Jun 2022 19:58:01 GMT
 -->
 <resources>
-  <color name="color_font_primary">#ffffffff</color>
-  <color name="color_font_secondary">#ffffffff</color>
+  <color name="color_gradient">#ff000000</color>
+  <color name="color_primary_100">#ffccebff</color>
+  <color name="color_primary_200">#ff99d5ff</color>
+  <color name="color_primary_300">#ff66beff</color>
+  <color name="color_primary_400">#ff33a5ff</color>
+  <color name="color_primary_500">#ff078beb</color>
+  <color name="color_primary_600">#ff0072cc</color>
+  <color name="color_primary_700">#ff005899</color>
+  <color name="color_primary_800">#ff003c66</color>
+  <color name="color_primary_900">#ff001f33</color>
+  <color name="color_secondary_100">#ffecffcc</color>
+  <color name="color_secondary_200">#ffd7fe9f</color>
+  <color name="color_secondary_300">#ffc1f578</color>
+  <color name="color_secondary_400">#ffabe556</color>
+  <color name="color_secondary_500">#ff93d03b</color>
+  <color name="color_secondary_600">#ff78b223</color>
+  <color name="color_secondary_700">#ff5b8f12</color>
+  <color name="color_secondary_800">#ff3e6506</color>
+  <color name="color_secondary_900">#ff203300</color>
+  <color name="color_black_100">#ffd2d4d7</color>
+  <color name="color_black_200">#ffa6a9af</color>
+  <color name="color_black_300">#ff7b7f86</color>
+  <color name="color_black_400">#ff50545d</color>
+  <color name="color_black_500">#ff21262e</color>
+  <color name="color_black_600">#ff1d212a</color>
+  <color name="color_black_700">#ff151920</color>
+  <color name="color_black_800">#ff111419</color>
+  <color name="color_black_900">#ff090808</color>
+  <color name="color_white_100">#ffffffff</color>
+  <color name="color_white_200">#fffefefe</color>
+  <color name="color_white_300">#fffdfdfd</color>
+  <color name="color_white_400">#fffbfbfb</color>
+  <color name="color_white_500">#fff6f6f6</color>
+  <color name="color_white_600">#fff0f0f0</color>
+  <color name="color_white_700">#ffeaeaea</color>
+  <color name="color_white_800">#ffe4e4e4</color>
+  <color name="color_white_900">#ffdddddd</color>
   
 </resources>

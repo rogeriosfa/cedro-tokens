@@ -5,25 +5,6 @@
   Generated on Tue, 21 Jun 2022 19:58:00 GMT
 -->
 <resources>
-  <color name="color_gradient">#ff000000</color>
-  <color name="color_primary_100">#ffa3e4ff</color>
-  <color name="color_primary_200">#ff7acfff</color>
-  <color name="color_primary_300">#ff52b5f7</color>
-  <color name="color_primary_400">#ff2998e5</color>
-  <color name="color_primary_500">#ff0779cc</color>
-  <color name="color_primary_600">#ff0062bc</color>
-  <color name="color_primary_700">#ff004aa6</color>
-  <color name="color_primary_800">#ff003385</color>
-  <color name="color_primary_900">#ff001f5c</color>
-  <color name="color_secondary_100">#ffe8fccc</color>
-  <color name="color_secondary_200">#ffd0f39e</color>
-  <color name="color_secondary_300">#ffb7e676</color>
-  <color name="color_secondary_400">#ff9ed253</color>
-  <color name="color_secondary_500">#ff83ba35</color>
-  <color name="color_secondary_600">#ff6b9f20</color>
-  <color name="color_secondary_700">#ff518010</color>
-  <color name="color_secondary_800">#ff375a05</color>
-  <color name="color_secondary_900">#ff1c3000</color>
   <color name="color_black_100">#ffd2d4d7</color>
   <color name="color_black_200">#ffa6a9af</color>
   <color name="color_black_300">#ff7b7f86</color>
