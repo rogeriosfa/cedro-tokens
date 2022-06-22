@@ -1,6 +1,6 @@
 {
   "name": "cedro-tokens",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Pacotes com todos os tokens.",
   "main": "index.js",
   "scripts": {
