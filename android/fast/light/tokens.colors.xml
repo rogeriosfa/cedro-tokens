@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 22 Jun 2022 12:25:26 GMT
+  Generated on Wed, 22 Jun 2022 12:30:48 GMT
 -->
 <resources>
   <color name="color_gradient">#ff000000</color>
@@ -10,7 +10,7 @@
   <color name="color_primary_200">#ff7acfff</color>
   <color name="color_primary_300">#ff52b5f7</color>
   <color name="color_primary_400">#ff2998e5</color>
-  <color name="color_primary_500">#ff0779cc</color>
+  <color name="color_primary_500">#ff000000</color>
   <color name="color_primary_600">#ff0062bc</color>
   <color name="color_primary_700">#ff004aa6</color>
   <color name="color_primary_800">#ff003385</color>

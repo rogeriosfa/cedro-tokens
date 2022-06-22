@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 22 Jun 2022 12:25:27 GMT
+// Generated on Wed, 22 Jun 2022 12:30:48 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -15,7 +15,7 @@
 #define ColorPrimary200 [UIColor colorWithRed:0.600f green:0.835f blue:1.000f alpha:1.000f]
 #define ColorPrimary300 [UIColor colorWithRed:0.400f green:0.745f blue:1.000f alpha:1.000f]
 #define ColorPrimary400 [UIColor colorWithRed:0.200f green:0.647f blue:1.000f alpha:1.000f]
-#define ColorPrimary500 [UIColor colorWithRed:0.027f green:0.545f blue:0.922f alpha:1.000f]
+#define ColorPrimary500 [UIColor colorWithRed:0.000f green:0.000f blue:0.000f alpha:1.000f]
 #define ColorPrimary600 [UIColor colorWithRed:0.000f green:0.447f blue:0.800f alpha:1.000f]
 #define ColorPrimary700 [UIColor colorWithRed:0.000f green:0.345f blue:0.600f alpha:1.000f]
 #define ColorPrimary800 [UIColor colorWithRed:0.000f green:0.235f blue:0.400f alpha:1.000f]
